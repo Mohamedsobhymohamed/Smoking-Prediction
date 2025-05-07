@@ -63,8 +63,6 @@ cd smoking-status-prediction
 Install required packages:
 pip install numpy pandas matplotlib seaborn scikit-learn
 Run the notebooks in the following order:
-## Author:
-@MohamedSobhy
 generate_data.py to generate the dataset
 
 exploratory.ipynb
@@ -72,3 +70,5 @@ exploratory.ipynb
 explanatory.ipynb
 
 testing.ipynb
+## Author:
+@MohamedSobhy
